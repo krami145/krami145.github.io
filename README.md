@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title> Hello World </title>
+    <h1>Hello World </h1>
   </head>
   <body>
-  <h1>Friday May 29th 2026.</h1>
+  <h2>Friday May 29th 2026.</h2>
   </body>
 </html>
