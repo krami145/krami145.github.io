@@ -5,7 +5,10 @@
     <h1>Hello World </h1>
   </head>
   <body>
-  <h1>Hello World!</h1>
-  <h2>Friday May 29th 2026.</h2>
+    <p>
+      <h1>Hello World!</h1>
+      <h2>Friday May 29th 2026.</h2>
+    </p>
+  
   </body>
 </html>
